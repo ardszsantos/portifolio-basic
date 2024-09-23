@@ -1,0 +1,15 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-nav {
+    display: flex;
+    gap: 63px;
+}
